@@ -8,12 +8,14 @@ public class AulaAnimal {
         Repitil r = new Repitil();
         Ave a = new Ave();
 
-        m.locomover();
-        p.locomover();
-        r.locomover();
-        a.locomover();
+        canguru c = new canguru();
+        Cachorro k = new Cachorro();
+        Cobra j = new Cobra();
+        Arara e = new Arara();
+        Tartaruga t = new Tartaruga();
+        GoldFish g = new GoldFish();
 
-
+        c.locomover();
 
 
 
