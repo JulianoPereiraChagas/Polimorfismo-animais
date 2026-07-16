@@ -1,0 +1,19 @@
+public class Ave extends Animais {
+
+    private String corDaPena;
+
+    @Override
+    public void locomover() {
+        System.out.println("Voando");
+    }
+
+    @Override
+    public void alimentar() {
+        System.out.println("Comendo frutas");
+    }
+
+    @Override
+    public void emitirSom() {
+        System.out.println("Fazendo som de ave");
+    }
+}
