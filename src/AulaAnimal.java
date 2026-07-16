@@ -16,6 +16,7 @@ public class AulaAnimal {
         GoldFish g = new GoldFish();
 
         c.locomover();
+        k.locomover();
 
 
 

@@ -1,14 +1,6 @@
-public class Cachorro extends mamifero  {
+public class Cachorro extends mamifero {
     @Override
     public void locomover() {
-
-    }
-@Override
-    public void alimentar() {
-
-    }
-    @Override
-    public void emitirSom() {
-
+        System.out.println("Andando");
     }
 }
