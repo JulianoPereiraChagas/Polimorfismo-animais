@@ -1,6 +1,6 @@
 public class Cachorro extends mamifero {
     @Override
-    public void locomover() {
-        System.out.println("Andando");
+    public void emitirSom() {
+        System.out.println("Au au au au!");
     }
 }
